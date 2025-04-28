@@ -1,58 +1,31 @@
-🦠 COVID-19 State-wise Tracker using API
+🛒 Add to Cart App A simple and dynamic Add to Cart functionality built using HTML, CSS, and JavaScript. Users can browse products, add them to their cart, update quantities, and remove items — a great starting point for building full e-commerce websites!
 
-ⓘ The COVID-19 State-wise Tracker is a web-based application designed to provide real-time and accurate COVID-19 data for each Indian state. The app uses a public API to fetch the latest updates and displays the data in a user-friendly, responsive interface. This project was built with the goal of improving accessibility to vital information during the COVID-19 pandemic, helping users track the spread of the virus at the state level with ease.
+🚀 Features Display a list of products dynamically
 
-🚀 Project Overview
+Add products to the shopping cart
 
-👉 With the rapidly changing situation during the COVID-19 outbreak, it became essential to have up-to-date information easily accessible to everyone. This tracker allows users to:
+Increase or decrease product quantity
 
-👉 View confirmed cases, active cases, recovered patients, and death tolls state-wise.
+Remove items from the cart
 
-👉 Access live data fetched directly from a reliable public API.
+View total price and total item count
 
-👉 Experience a smooth and clean user interface designed for readability and responsiveness on both desktop and mobile devices.
+Fully responsive and mobile-friendly layout
 
+Smooth animations and clean design
 
-🔍 Features
+🎥 Demo
 
+<img src="">
 
-✅ Real-time COVID-19 statistics for all Indian states
+#Drive video link
 
-📊 Clean, structured table format for easy understanding
+watch video = "https://drive.google.com/drive/folders/1irzpIB5zYVmjnwusD0YgPkGzw6hJd8YE?usp=sharing"
 
-📱 Fully responsive layout for mobile and desktop users
+🛠️ Tech Stack
 
-🔄 Automatic data update on page load via API call
+--> HTML5 — Structure
 
+--> CSS3 — Styling and responsiveness
 
-✅ Key Features:
-
-
-👉 Live COVID-19 data fetched using API
-
-👉 State-wise breakdown of statistics
-
-👉 Responsive and user-friendly UI
-
-
-🛠️ Technologies Used
-
-
-1️⃣ HTML5, CSS, JavaScript – for front-end development
-
-2️⃣ Fetch API – to retrieve real-time data
-
-3️⃣ JSON Data Parsing – to process and display state-wise data
-
-
-
-📺 Demo Video
-
-
-<img src="output.gif">
-
-
-🖼️ Screenshot
-
-
-<img src="outputimage.png">
+--> JavaScript (Vanilla) — Cart logic and dynamic interactivity
