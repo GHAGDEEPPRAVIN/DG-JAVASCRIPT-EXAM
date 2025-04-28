@@ -16,7 +16,7 @@ Smooth animations and clean design
 
 🎥 Demo
 
-<img src="">
+<img src="output.gif">
 
 #Drive video link
 
