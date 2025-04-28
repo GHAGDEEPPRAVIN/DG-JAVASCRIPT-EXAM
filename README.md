@@ -1,3 +1,5 @@
+<h1>🛒 Add to Cart</h1>
+
 🛒 Add to Cart App A simple and dynamic Add to Cart functionality built using HTML, CSS, and JavaScript. Users can browse products, add them to their cart, update quantities, and remove items — a great starting point for building full e-commerce websites!
 
 🚀 Features Display a list of products dynamically
