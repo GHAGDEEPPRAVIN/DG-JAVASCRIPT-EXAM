@@ -27,3 +27,8 @@ Smooth loading animations and dynamic updates
 
 --> JavaScript (Vanilla) — API fetching and dynamic DOM updates
 
+
+## Project Screenshort
+
+<img src="outputimage.png">
+
