@@ -17,7 +17,7 @@ Smooth loading animations and dynamic updates
 
 🎥 Demo
 
-<img src="output.gif">
+<img src="corona-output.gif">
 
 🛠️ Tech Stack
 
